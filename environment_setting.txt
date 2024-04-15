@@ -1,0 +1,11 @@
+conda create -n dataprocess python=3.10
+conda activate dataprocess
+cd InternLM-XComposer/projects/ShareGPT4V
+pip install --upgrade pip
+pip3 install torch==2.0.1 torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cu118 --default-timeout=1000
+conda install cudnn
+pip install .
+pip install scenedetect[opencv] --upgrade
+pip install av
+pip install git+https://github.com/chaofengc/IQA-PyTorch.git
+pip install torchmetrics
