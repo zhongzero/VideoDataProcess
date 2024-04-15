@@ -308,7 +308,7 @@ def videoProcess(args):
     allResultIntegration(scene_list, temporal_dir, output_path)
     
     print(f"Read video total time cost: {time2 - time1}s")
-    print(f"Caption genration total time cost: {time3 - time2}s")
+    print(f"Caption generation total time cost: {time3 - time2}s")
     print(f"Qalign score calculation total time cost: {time4 - time3}s")
     print(f"Clip-t score calculation total time cost: {time5 - time4}s")
     print(f"Motion score calculation total time cost: {time6 - time5}s")
