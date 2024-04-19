@@ -9,3 +9,12 @@ pip install scenedetect[opencv] --upgrade
 pip install av
 pip install git+https://github.com/chaofengc/IQA-PyTorch.git
 pip install torchmetrics
+
+
+
+conda create -n subtitleRemover python=3.8
+conda activate subtitleRemover
+cd video-subtitle-remover
+python -m pip install paddlepaddle-gpu==2.4.2.post117 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+pip3 install torch==2.0.1 torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cu118 --default-timeout=1000
+pip install -r requirements.txt

@@ -1,378 +1,378 @@
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 0
-Scene end frame: 31
-Caption of the 0-th scene: The image captures a moment of tranquility and adventure. A helicopter, painted in a sleek black color, is seen soaring above a serene lake. The helicopter is equipped with a large rotor on top and a smaller one on the tail, both spinning rapidly as they cut through the air.  The helicopter is positioned in the top left corner of the image, flying from left to right. It's slightly tilted downwards, suggesting it's in the process of landing. The backdrop is a picturesque scene of a lake, its calm waters reflecting the surrounding trees. The trees, adorned with autumn foliage, add a splash of color to the scene.  The sky above is painted in hues of orange, indicating that the photo was taken at sunset. The warm glow of the setting sun casts long shadows and bathes the entire scene in a soft, golden light. The image beautifully encapsulates the thrill of helicopter travel against the backdrop of nature's tranquility.
-Qalign quality score of the 0-th scene: 3.611328125
-Qalign aesthetic score of the 0-th scene: 2.92578125
-Clip-t score of the 0-th scene: 0.125
-Motion scores of the 0-th scene: 115.67241668701172
-(Compress) Motion scores of the 0-th scene: 30.06256675720215
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
-Scene start frame: 32
+Scene end frame: 35
+Caption of the 0-th scene: The image captures a serene scene of a helicopter in flight over a tranquil lake. The helicopter, painted in a sleek black color, is equipped with a white rotor on top and a tail rotor at the back. It's positioned in the top left corner of the image, soaring above the calm waters of the lake.  The lake itself is nestled amidst lush greenery, with trees and bushes encircling its edges. The sky above is a clear blue, providing a beautiful contrast to the verdant surroundings. The sun is setting, casting a warm, golden glow over the entire scene, enhancing the overall tranquility of the image.  The helicopter appears to be moving from the left to the right of the frame, suggesting a journey in progress. The relative position of the helicopter to the trees and bushes indicates that it is flying at a considerable height above the ground. The image does not contain any discernible text. The overall composition of the image suggests a peaceful coexistence of technology and nature.
+Qalign quality score of the 0-th scene: 3.4296875
+Qalign aesthetic score of the 0-th scene: 2.654296875
+Clip-t score of the 0-th scene: 0.1346
+Motion scores of the 0-th scene: 102.25616455078125
+(Compress) Motion scores of the 0-th scene: 30.904935836791992
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
+Scene start frame: 36
 Scene end frame: 85
-Caption of the 1-th scene: The image captures a moment of a green and black helicopter, emblazoned with the word "BELL" in white letters, soaring above a lush, green landscape. The helicopter, with its rotors spinning, is flying from the left to the right of the frame, suggesting a journey in progress. The backdrop is a verdant expanse of trees and bushes, their leaves a vibrant green. The sky, peeking through the canopy of leaves, is a soft, pale blue. The helicopter's position in the top left corner of the image gives a sense of direction and movement. The overall scene is one of tranquility and adventure, as the helicopter navigates the natural world.
-Qalign quality score of the 1-th scene: 3.79296875
-Qalign aesthetic score of the 1-th scene: 2.73828125
-Clip-t score of the 1-th scene: 0.1136
-Motion scores of the 1-th scene: 124.77601623535156
-(Compress) Motion scores of the 1-th scene: 73.67341613769531
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 1-th scene: The image captures a moment of a Bell helicopter in mid-flight. The helicopter, painted in a striking combination of green and black, is the central focus of the image. It's slightly tilted to the left, suggesting a gentle turn in its trajectory. The tail rotor of the helicopter is clearly visible, adding to the sense of motion.  The helicopter is flying over a wooden deck, which is surrounded by lush greenery. The deck appears to be well-maintained, with the wooden planks appearing sturdy and weathered. The greenery surrounding the deck is dense and vibrant, providing a stark contrast to the wooden deck.  The background of the image is blurred, drawing the viewer's attention to the helicopter and the deck. The blur effect also gives a sense of depth to the image, making the helicopter and the deck appear closer to the viewer.  Overall, the image is a dynamic snapshot of a helicopter in flight, set against a serene and natural backdrop.
+Qalign quality score of the 1-th scene: 3.53515625
+Qalign aesthetic score of the 1-th scene: 2.466796875
+Clip-t score of the 1-th scene: 0.1072
+Motion scores of the 1-th scene: 103.33861541748047
+(Compress) Motion scores of the 1-th scene: 67.22669219970703
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 105
 Scene end frame: 140
-Caption of the 3-th scene: In the image, a man is the central figure, standing in front of a green car. He is dressed in a gray suit, which is complemented by a brown fur collar. The suit is paired with a striped tie, adding a touch of formality to his attire. His gaze is directed off to the side, suggesting he might be deep in thought or observing something out of frame. The car behind him is green and appears to be a vintage model, adding a sense of nostalgia to the scene. The man's position in front of the car, along with his attire and the car's vintage design, might suggest a connection to a bygone era. The image does not contain any text. The overall scene is static, with no indication of movement or action. The man, the car, and the background together create a harmonious composition.
-Qalign quality score of the 3-th scene: 4.26953125
-Qalign aesthetic score of the 3-th scene: 2.93359375
-Clip-t score of the 3-th scene: 0.1076
-Motion scores of the 3-th scene: 184.48060607910156
-(Compress) Motion scores of the 3-th scene: 51.916595458984375
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 3-th scene: In the image, a man is the central figure, exuding an air of sophistication and mystery. He is clad in a gray suit, which is complemented by a brown fur collar that adds a touch of elegance to his attire. A black tie, neatly tied, hangs from his neck, matching the black coat he wears. His gaze is directed off to the side, suggesting he is lost in thought or perhaps observing something out of frame.  The man is positioned in front of a green car, which is parked on a road. The car's vibrant color contrasts with the man's gray suit, making it a noticeable element in the scene. The road on which the car is parked extends into the distance, leading the viewer's eye towards the horizon.  The background of the image is blurred, creating a sense of depth and focusing the viewer's attention on the man and the car. The blurred background also adds a sense of mystery to the image, leaving the viewer to wonder about the location and the man's story.  Overall, the image captures a moment of quiet introspection, with the man, the car, and the road as the main elements. The colors, textures, and lighting all contribute to creating a visually appealing and intriguing scene.
+Qalign quality score of the 3-th scene: 4.3125
+Qalign aesthetic score of the 3-th scene: 2.96875
+Clip-t score of the 3-th scene: 0.1162
+Motion scores of the 3-th scene: 82.18194580078125
+(Compress) Motion scores of the 3-th scene: 46.703739166259766
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 165
 Scene end frame: 190
-Caption of the 5-th scene: In the image, a woman is the central figure, standing on a green tarmac. She is dressed in a white strapless dress, which is complemented by a white fur stole draped over her shoulders. A pearl necklace adorns her neck, adding a touch of elegance to her attire. Her hair, styled in a neat bun, complements her overall look.  She is positioned in front of a green and white helicopter, which is marked with the number "B-707". The helicopter, with its sleek design, stands out against the backdrop of a clear blue sky. The woman appears to be gazing downwards, perhaps contemplating her next adventure.  The image also contains text in Chinese that reads "她穿着白色的婚纱礼服，穿着白色的羽绒袍", which translates to "She is wearing a white wedding dress and a white fur coat". This suggests that the woman might be a bride or a bride-to-be.  The relative positions of the objects are such that the woman is in the foreground, while the helicopter is in the background. The clear blue sky forms the uppermost layer of the image, providing a serene and calm atmosphere. The overall composition of the image suggests a moment of anticipation and excitement, perhaps before or after a special event.
-Qalign quality score of the 5-th scene: 4.734375
-Qalign aesthetic score of the 5-th scene: 3.349609375
-Clip-t score of the 5-th scene: 0.111
-Motion scores of the 5-th scene: 40.976253509521484
-(Compress) Motion scores of the 5-th scene: 28.839542388916016
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 5-th scene: In the image, a woman is the central figure, standing on a green tarmac. She is elegantly dressed in a white strapless dress, which is complemented by a white fur stole draped over her shoulders. A pearl necklace adorns her neck, adding a touch of sophistication to her attire.  She is positioned in front of a green and white helicopter, which is marked with the registration number "B-7071". The helicopter is stationary, suggesting a moment of pause or preparation.  The woman's gaze is directed downwards, towards her hands, which are clasped together in front of her. Her expression is serious, perhaps reflective or contemplative.  The background of the image is a clear blue sky, providing a stark contrast to the green tarmac and the white helicopter. The overall scene suggests a setting related to aviation or travel.
+Qalign quality score of the 5-th scene: 4.6640625
+Qalign aesthetic score of the 5-th scene: 3.20703125
+Clip-t score of the 5-th scene: 0.12
+Motion scores of the 5-th scene: 32.36569595336914
+(Compress) Motion scores of the 5-th scene: 25.737098693847656
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 191
 Scene end frame: 221
-Caption of the 6-th scene: In the image, a man stands in front of a green bus. He is dressed in a black suit with a brown fur collar, and a striped tie. His gray hair is neatly combed, and he gazes off to the side with a serious expression. The bus behind him is green and has white text on it. The man's position relative to the bus suggests he is standing quite close to it. The bus appears to be stationary, and there are no other discernible objects or people in the image. The man's serious expression and the green bus create a contrasting backdrop, making him the focal point of the image.
-Qalign quality score of the 6-th scene: 4.3515625
-Qalign aesthetic score of the 6-th scene: 3.001953125
-Clip-t score of the 6-th scene: 0.0709
-Motion scores of the 6-th scene: 48.9041633605957
-(Compress) Motion scores of the 6-th scene: 20.819721221923828
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 6-th scene: In the image, a man is the central figure, standing in front of a green bus. He is dressed in a black coat with a fur collar, a gray suit, and a red tie. His gray hair is neatly combed, and he is looking off to the side with a serious expression on his face. The bus behind him is green and has white text on it. The man's position relative to the bus is such that he is in front of it, and the bus is behind him. There are no other discernible objects or people in the image. The man's serious expression and the serious text on the bus suggest a sense of importance or urgency. The image does not provide any additional context about the location or the man's identity.
+Qalign quality score of the 6-th scene: 4.34375
+Qalign aesthetic score of the 6-th scene: 3.015625
+Clip-t score of the 6-th scene: 0.0728
+Motion scores of the 6-th scene: 4.90621280670166
+(Compress) Motion scores of the 6-th scene: 7.838559627532959
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 222
 Scene end frame: 357
-Caption of the 7-th scene: In the image, a man and a woman are the main subjects, both elegantly dressed and walking on a path. The man is clad in a brown suit, complete with a black tie, and a brown fur coat draped over his shoulders. He strides confidently towards the right side of the frame.   Beside him, the woman is resplendent in a white dress, her head adorned with a pearl necklace. She walks in the opposite direction, towards the left side of the image.   The background of the image reveals a serene landscape of trees and a clear blue sky, adding a sense of tranquility to the scene. The path they are walking on is lined with trees, and a helicopter can be seen in the distance, adding an element of intrigue to the otherwise peaceful setting.   The image captures a moment of elegance and grace, set against a backdrop of natural beauty and unexpected intrigue.
-Qalign quality score of the 7-th scene: 3.19921875
-Qalign aesthetic score of the 7-th scene: 2.3046875
-Clip-t score of the 7-th scene: 0.1311
-Motion scores of the 7-th scene: 79.98342895507812
-(Compress) Motion scores of the 7-th scene: 27.438810348510742
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 7-th scene: In the image, a man and a woman are the main subjects. The man, positioned on the left, is dressed in a brown suit and a black coat with a fur collar. He is walking towards the right side of the image. On the right side of the image, a woman is seen wearing a white dress and a pearl necklace. She is walking in the opposite direction, towards the left side of the image. The background of the image is blurred, but it appears to be an outdoor setting with trees and a building. The man and woman are the only two people in the image. There is no text present in the image. The relative positions of the man and woman suggest they are moving in opposite directions. The man's brown suit and black coat contrast with the woman's white dress. The fur collar on the man's coat adds a touch of luxury to his outfit. The pearl necklace on the woman's dress adds a touch of elegance. The trees and building in the background provide context for the location, but are not the focus of the image. The image does not contain any other discernible objects or details.
+Qalign quality score of the 7-th scene: 3.060546875
+Qalign aesthetic score of the 7-th scene: 2.1953125
+Clip-t score of the 7-th scene: 0.13
+Motion scores of the 7-th scene: 70.33966827392578
+(Compress) Motion scores of the 7-th scene: 26.75760841369629
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 358
 Scene end frame: 373
-Caption of the 8-th scene: The image captures a serene scene of a traditional Japanese house nestled in a lush garden. The house, a two-story wooden structure, is characterized by its sloping roof and a balcony on the second floor. The garden, teeming with greenery, is dotted with rocks and trees, adding to the tranquility of the setting. A stone path meanders through the garden, inviting visitors to explore its beauty. The sky above is a clear blue, and the sun shines brightly, casting a warm glow over the entire scene. The image is taken from a distance, offering a comprehensive view of the house and its surroundings. The landmark identifier "sa_1607" doesn't provide additional information about the location or name of this landmark.
-Qalign quality score of the 8-th scene: 2.95703125
-Qalign aesthetic score of the 8-th scene: 2.154296875
-Clip-t score of the 8-th scene: 0.1084
-Motion scores of the 8-th scene: 69.51316833496094
-(Compress) Motion scores of the 8-th scene: 71.0642318725586
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 8-th scene: The image captures a serene scene of a two-story wooden house nestled amidst lush greenery. The house, with its sloping roof, exudes a rustic charm. A balcony adorns the second floor, offering a vantage point to soak in the surrounding beauty.  The house is enveloped by a variety of trees and shrubs, their verdant hues painting a picture of tranquility. A stone path meanders through the greenery, inviting visitors to explore the property.  In the foreground, a large rock formation commands attention. It's a testament to the natural beauty of the landscape. A person can be seen walking on the path, adding a touch of life to the scene.  The sky above is a clear blue, suggesting a bright, sunny day. The overall image is a harmonious blend of man-made structure and natural beauty.
+Qalign quality score of the 8-th scene: 2.89453125
+Qalign aesthetic score of the 8-th scene: 2.044921875
+Clip-t score of the 8-th scene: 0.1155
+Motion scores of the 8-th scene: 59.08591842651367
+(Compress) Motion scores of the 8-th scene: 69.9629135131836
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 374
 Scene end frame: 400
-Caption of the 9-th scene: In the image, a man is seen riding a black scooter on a park path. He is dressed in a yellow jacket and a matching yellow helmet, adding a pop of color to the scene. The path he is on is lined with a green fence, providing a sense of direction and movement. In the background, there are trees and a playground, suggesting a family-friendly environment. The man appears to be in motion, possibly enjoying a leisurely ride through the park. The image also contains text in Chinese that reads "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车辆", "车
-Qalign quality score of the 9-th scene: 4.328125
-Qalign aesthetic score of the 9-th scene: 2.267578125
-Clip-t score of the 9-th scene: 0.1036
-Motion scores of the 9-th scene: 65.56124114990234
-(Compress) Motion scores of the 9-th scene: 27.8153076171875
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 9-th scene: In the image, a man is seen riding a gray scooter on a park path. He is dressed in a yellow jacket and a matching yellow helmet, adding a pop of color to the scene. The path he is on is lined with a green fence, providing a sense of direction and movement. In the background, there are trees and a playground, suggesting that this might be a family-friendly park. The man appears to be in motion, possibly enjoying a leisurely ride through the park. The image does not contain any text. The relative positions of the objects suggest a well-maintained and peaceful park setting.
+Qalign quality score of the 9-th scene: 4.1953125
+Qalign aesthetic score of the 9-th scene: 2.228515625
+Clip-t score of the 9-th scene: 0.1051
+Motion scores of the 9-th scene: 51.687530517578125
+(Compress) Motion scores of the 9-th scene: 28.888324737548828
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 401
 Scene end frame: 433
-Caption of the 10-th scene: The image captures a close-up view of a motorcycle wheel, which is the main subject of the photo. The wheel is black with a silver rim, and it's attached to a black motorcycle. The motorcycle is parked on a gray pavement, and the background is blurred, suggesting a focus on the wheel. The photo is taken from a low angle, adding a sense of depth and perspective to the image. The motorcycle and the wheel are the only discernible objects in the image. There are no texts or other objects present. The relative position of the wheel to the motorcycle is central, and the motorcycle is positioned on the pavement. The background is out of focus, indicating that the photo was taken with a shallow depth of field. The image does not contain any people or animals. The overall composition of the image suggests a quiet, possibly early morning, scene in an urban setting.
-Qalign quality score of the 10-th scene: 4.3203125
-Qalign aesthetic score of the 10-th scene: 2.26953125
-Clip-t score of the 10-th scene: 0.119
-Motion scores of the 10-th scene: 47.156307220458984
-(Compress) Motion scores of the 10-th scene: 36.04208755493164
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 10-th scene: The image captures a close-up view of a motorcycle wheel, which is the main subject of the photo. The wheel is black with a silver rim, and it's attached to a black motorcycle. The motorcycle is parked on a gray pavement, and the background is blurred, drawing focus to the wheel. The photo is taken from a low angle, adding a sense of depth and perspective to the image. The motorcycle is the only object in the frame, and there are no texts or other discernible objects. The relative position of the wheel to the motorcycle and the pavement suggests that the motorcycle is stationary. The image does not depict any actions or movement. The overall composition of the image is simple yet detailed, focusing on the motorcycle wheel and its immediate surroundings.
+Qalign quality score of the 10-th scene: 4.17578125
+Qalign aesthetic score of the 10-th scene: 2.181640625
+Clip-t score of the 10-th scene: 0.1182
+Motion scores of the 10-th scene: 41.091094970703125
+(Compress) Motion scores of the 10-th scene: 36.1428108215332
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 434
 Scene end frame: 469
-Caption of the 11-th scene: In the image, a man is seen riding a motorcycle. He is wearing a yellow helmet and a yellow jacket with a black stripe running down the middle. The motorcycle is black and has a silver handlebar. The man appears to be in motion, as suggested by the blurred background. The background consists of a green fence and trees. The man is smiling, indicating that he is enjoying his ride. The image does not contain any text. The man, the motorcycle, and the background are the main elements in the image. The man is in the foreground, while the green fence and trees are in the background. The man is on the motorcycle, and the motorcycle is on the road. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow. The jacket is yellow, and the stripe is black. The handlebar is silver, and the motorcycle is black. The road is under the motorcycle, and the motorcycle is under the man. The man is on the left side of the motorcycle, and the motorcycle is on the right side of the road. The green fence and trees are on the right side of the road. The man is smiling, and the motorcycle is moving. The man is wearing a helmet, and the helmet is yellow
-Qalign quality score of the 11-th scene: 4.66796875
-Qalign aesthetic score of the 11-th scene: 2.845703125
-Clip-t score of the 11-th scene: 0.0899
-Motion scores of the 11-th scene: 65.36833953857422
-(Compress) Motion scores of the 11-th scene: 30.0667724609375
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 11-th scene: In the image, a man is seen riding a black motorcycle. He is wearing a yellow helmet and a yellow jacket, which stand out against the green background. The man appears to be in motion, as suggested by the blurred background. The motorcycle is equipped with a black windshield and a black seat. The man is holding onto the handlebars, indicating that he is actively controlling the motorcycle. The overall scene suggests an outdoor setting, possibly a park or a road. The man's attire and the motorcycle's color contrast with the green background, making them the focal points of the image. The blurred background suggests movement, adding a dynamic element to the scene. The image does not contain any text. The relative position of the objects indicates that the man is in the foreground, while the background is in the distance. The motorcycle is in the middle ground, with the man on top of it. The green background fills the rest of the image. The image does not contain any other discernible objects or people.
+Qalign quality score of the 11-th scene: 4.71484375
+Qalign aesthetic score of the 11-th scene: 2.76953125
+Clip-t score of the 11-th scene: 0.094
+Motion scores of the 11-th scene: 48.14186096191406
+(Compress) Motion scores of the 11-th scene: 32.49650955200195
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 470
 Scene end frame: 494
-Caption of the 12-th scene: The image captures a moment of urban life, featuring a person standing on a sidewalk. The person is dressed in black, with a black backpack slung over their shoulder and black shoes adorning their feet. They are positioned in front of a black car, which is parked on the street. The car's license plate is clearly visible, bearing the characters "大阪市". The backdrop of the scene is a gray sidewalk, with a black asphalt road stretching out behind the person. The image is taken from a low angle, adding a sense of depth and perspective to the scene. The person appears to be in motion, perhaps walking or about to step into the car. The overall atmosphere is one of everyday city life, with the person and the car as the main subjects.
-Qalign quality score of the 12-th scene: 3.384765625
-Qalign aesthetic score of the 12-th scene: 2.19140625
-Clip-t score of the 12-th scene: 0.1434
-Motion scores of the 12-th scene: 45.03291320800781
-(Compress) Motion scores of the 12-th scene: 16.805191040039062
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 12-th scene: The image captures a moment of urban life, featuring a person standing on a sidewalk. The person is dressed in black, with a black backpack slung over their shoulder and black shoes adorning their feet. They are positioned on the right side of the frame, their body angled towards the left.  The sidewalk beneath their feet is a muted gray, contrasting with the darker gray of the street that extends into the background. The person's shadow stretches out on the ground, mirroring their stance and adding depth to the scene.  In the distance, a yellow traffic cone stands out against the otherwise monochrome palette of the image. Its bright color draws the eye, adding a pop of color to the scene. The cone is located on the left side of the image, providing a sense of balance to the composition.  Overall, the image paints a picture of a quiet moment in a city, with the person, sidewalk, street, and traffic cone each playing their part in this urban tableau.
+Qalign quality score of the 12-th scene: 3.1953125
+Qalign aesthetic score of the 12-th scene: 1.9931640625
+Clip-t score of the 12-th scene: 0.136
+Motion scores of the 12-th scene: 43.77997970581055
+(Compress) Motion scores of the 12-th scene: 17.706768035888672
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 522
 Scene end frame: 537
-Caption of the 14-th scene: In the image, a person's hand is captured in the act of unlocking a car door. The hand, appearing from the right side of the frame, holds a key with a black handle and a silver keychain. The key is inserted into a black car door handle, which is located on the left side of the image. The car door itself is black, matching the handle. The background is a blurred gray, providing a neutral backdrop that allows the focus to remain on the hand and the car door. The image does not contain any text. The overall scene suggests a moment of anticipation, as the person prepares to enter the car.
-Qalign quality score of the 14-th scene: 4.015625
-Qalign aesthetic score of the 14-th scene: 2.341796875
-Clip-t score of the 14-th scene: 0.1198
-Motion scores of the 14-th scene: 13.44478988647461
-(Compress) Motion scores of the 14-th scene: 14.950128555297852
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 14-th scene: In the image, a person's hand is captured in the act of unlocking a car door. The hand, appearing from the right side of the frame, is holding a key that is black with a silver keyring. The key is inserted into a black car door handle, which is located on the left side of the image. The door handle is slightly ajar, indicating the action of unlocking. The background of the image is blurred, drawing focus to the hand and the key. The overall scene suggests a moment of anticipation, as if the person is about to step into the car.
+Qalign quality score of the 14-th scene: 4.05859375
+Qalign aesthetic score of the 14-th scene: 2.34375
+Clip-t score of the 14-th scene: 0.1147
+Motion scores of the 14-th scene: 12.481427192687988
+(Compress) Motion scores of the 14-th scene: 16.994997024536133
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 538
-Scene end frame: 552
-Caption of the 15-th scene: In the image, a person is seen riding a silver scooter on a road. The rider, clad in a yellow jacket and black pants, is wearing a yellow helmet for safety. The scooter is equipped with a black bag attached to the back, possibly for carrying personal items. The road on which the scooter is traveling is lined with rocks and trees, adding a touch of nature to the scene. In the distance, a mountain can be seen, suggesting that the road is located in a mountainous region. The person appears to be in motion, navigating the road with the scooter. The image captures a moment of travel, with the rider and the scooter as the main subjects against a backdrop of natural scenery.
-Qalign quality score of the 15-th scene: 4.4296875
-Qalign aesthetic score of the 15-th scene: 2.509765625
-Clip-t score of the 15-th scene: 0.1142
-Motion scores of the 15-th scene: 107.76724243164062
-(Compress) Motion scores of the 15-th scene: 19.747533798217773
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
-Scene start frame: 553
 Scene end frame: 641
-Caption of the 16-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a matching yellow helmet, which is equipped with a black visor. His hands are clenched into fists, suggesting a sense of determination or readiness. His gaze is directed off to the side, and his expression is one of concern, indicating that he might be facing a challenging situation. The image also contains text in Chinese that reads "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险者", "冒险
-Qalign quality score of the 16-th scene: 4.7578125
-Qalign aesthetic score of the 16-th scene: 2.833984375
-Clip-t score of the 16-th scene: 0.0847
-Motion scores of the 16-th scene: 50.12830352783203
-(Compress) Motion scores of the 16-th scene: 16.51769256591797
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 15-th scene: In the image, a man is the central figure, standing in front of a backdrop of a mountainous landscape. He is dressed in a vibrant yellow jacket and a matching yellow helmet, which has a black visor. His hands are clenched into fists, suggesting a sense of determination or readiness. His mouth is open wide, as if he is shouting or making an exclamation. The man's position in the foreground, coupled with his bright attire, makes him the focal point of the image. The mountain range in the background provides a sense of scale and grandeur to the scene. The image does not contain any text. The man's action of shouting or making an exclamation, combined with his determined expression, suggests a sense of urgency or excitement. The overall composition of the image places the man in the foreground, with the mountain range serving as a dramatic backdrop. The colors, objects, and their arrangement in the image create a dynamic and engaging scene.
+Qalign quality score of the 15-th scene: 4.6015625
+Qalign aesthetic score of the 15-th scene: 2.939453125
+Clip-t score of the 15-th scene: 0.0853
+Motion scores of the 15-th scene: 34.4889030456543
+(Compress) Motion scores of the 15-th scene: 17.380451202392578
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 642
 Scene end frame: 666
-Caption of the 17-th scene: In the image, a man is standing on a road, engrossed in a conversation on his yellow and black helmet. He is dressed in a yellow jacket and black pants, adding a pop of color to the scene. A black car is parked nearby, its sleek design contrasting with the natural surroundings. The road they are on is lined with trees, their green leaves forming a natural canopy overhead. In the distance, a playground can be seen, adding a touch of whimsy to the otherwise serene landscape. The man, the car, and the playground are the main elements in this image, each contributing to the overall narrative of a day out in nature.
-Qalign quality score of the 17-th scene: 4.3125
-Qalign aesthetic score of the 17-th scene: 2.189453125
-Clip-t score of the 17-th scene: 0.1104
-Motion scores of the 17-th scene: 58.27899932861328
-(Compress) Motion scores of the 17-th scene: 12.43328857421875
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 16-th scene: In the image, a man is standing on a road, engrossed in a conversation on his yellow and black helmet. He is dressed in a gray jacket and black pants, and his yellow helmet adds a pop of color to his outfit.   A black car is parked on the side of the road, adding to the urban setting. The road itself is lined with trees, providing a touch of nature amidst the cityscape.   In the background, there's a green building, possibly a house or a small business. The building's green color contrasts with the surrounding environment, making it stand out.   The man, the car, and the building are the main subjects in this image, each contributing to the overall scene. The man's action of talking on the phone adds a dynamic element to the otherwise static scene. The relative positions of the objects suggest a quiet, possibly early morning, in a suburban or semi-urban area.   Please note that this description is based on the visible elements in the image and does not include any inferred or assumed information.
+Qalign quality score of the 16-th scene: 4.21484375
+Qalign aesthetic score of the 16-th scene: 2.1953125
+Clip-t score of the 16-th scene: 0.1078
+Motion scores of the 16-th scene: 28.178466796875
+(Compress) Motion scores of the 16-th scene: 10.25131607055664
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 667
 Scene end frame: 687
-Caption of the 18-th scene: The image captures a moment on a road where a black Mercedes-Benz car is in motion. The car, which is the central focus of the image, is moving towards the right side of the frame. The Mercedes-Benz logo, a silver star, is prominently displayed on the front grille of the car.  Inside the car, two individuals can be seen. One person is seated in the driver's seat, while the other is in the passenger seat. Their faces are not visible, maintaining their anonymity.  The background of the image provides a contrast to the car. It features a lush green forest, suggesting that the car is driving through a wooded area. The trees in the background are dense and tall, indicating a healthy, thriving forest.  Overall, the image presents a snapshot of a journey through a serene, natural landscape, with the black Mercedes-Benz car as the main subject.
-Qalign quality score of the 18-th scene: 3.16015625
-Qalign aesthetic score of the 18-th scene: 2.072265625
-Clip-t score of the 18-th scene: 0.0991
-Motion scores of the 18-th scene: 43.976051330566406
-(Compress) Motion scores of the 18-th scene: 14.459152221679688
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 17-th scene: The image captures a moment on a road where a black Mercedes-Benz car is in motion. The car, which is the main subject of the image, is positioned in the center and is moving towards the right side of the frame. The Mercedes-Benz logo, a silver star, is prominently displayed on the front grille of the car.  Inside the car, two individuals can be seen. One person is seated in the driver's seat, while the other is in the passenger seat. Their faces are not visible, maintaining their anonymity.  The background of the image provides a contrast to the car. It consists of a lush green forest, filled with trees and bushes, extending into the distance. Above, the sky is a clear blue, suggesting a bright and sunny day.  The image does not contain any text or other discernible objects. The relative positions of the objects are such that the car is in the foreground, while the forest and sky form the background. The image does not provide any information that allows for a confident count of the objects or a detailed description of their actions. The image is a realistic representation of a moment in time, with no imaginary content.
+Qalign quality score of the 17-th scene: 2.984375
+Qalign aesthetic score of the 17-th scene: 2.046875
+Clip-t score of the 17-th scene: 0.1106
+Motion scores of the 17-th scene: 38.098548889160156
+(Compress) Motion scores of the 17-th scene: 14.935384750366211
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 716
 Scene end frame: 741
-Caption of the 20-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a matching yellow helmet, which is equipped with a black visor. The man is engaged in a conversation on his black cell phone, holding it to his ear with his left hand. His gaze is directed off to the side, suggesting he is deeply engrossed in his conversation. The image captures a moment of solitude and focus, with the man's bright attire contrasting against the serene blue sky.
-Qalign quality score of the 20-th scene: 4.91015625
-Qalign aesthetic score of the 20-th scene: 2.982421875
-Clip-t score of the 20-th scene: 0.0856
-Motion scores of the 20-th scene: 29.64199447631836
-(Compress) Motion scores of the 20-th scene: 19.508338928222656
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 19-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a matching yellow helmet, which is equipped with a black visor. The man is engaged in a phone conversation, holding the phone to his ear with his left hand. His gaze is directed upwards and to the left, suggesting he might be looking at something or someone out of the frame. The overall scene is set against a serene, cloudless sky, with no other discernible objects or individuals present.
+Qalign quality score of the 19-th scene: 4.8984375
+Qalign aesthetic score of the 19-th scene: 3.2265625
+Clip-t score of the 19-th scene: 0.0847
+Motion scores of the 19-th scene: 34.080078125
+(Compress) Motion scores of the 19-th scene: 37.54756164550781
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 742
 Scene end frame: 779
-Caption of the 21-th scene: The image depicts a scene of a woman sitting in the passenger seat of a car. She is dressed in a black dress and is wearing high heels. In her hands, she holds a white piece of paper. The car is parked on a street, with a building visible in the background. The woman appears to be in the process of reading the paper, perhaps reviewing some important information. The overall atmosphere of the image suggests a moment of quiet reflection amidst the hustle and bustle of city life.
-Qalign quality score of the 21-th scene: 4.41015625
-Qalign aesthetic score of the 21-th scene: 3.001953125
-Clip-t score of the 21-th scene: 0.1403
-Motion scores of the 21-th scene: 62.35295486450195
-(Compress) Motion scores of the 21-th scene: 24.773284912109375
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 20-th scene: The image captures a moment of a woman in the midst of a journey. She is seated in the passenger seat of a car, her legs elegantly crossed. Her attire is a black dress, complemented by a pair of high heels. In her hands, she holds a white piece of paper, perhaps a map or a list of directions. The car door is open, revealing a glimpse of the world outside - a street lined with trees and buildings. The woman's posture suggests she is in the process of getting out of the car, ready to embark on her journey. The image is rich in detail, from the woman's clothing to the surrounding environment, offering a snapshot of a moment in time.
+Qalign quality score of the 20-th scene: 4.2109375
+Qalign aesthetic score of the 20-th scene: 2.912109375
+Clip-t score of the 20-th scene: 0.1528
+Motion scores of the 20-th scene: 63.7590217590332
+(Compress) Motion scores of the 20-th scene: 24.6326847076416
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 780
 Scene end frame: 802
-Caption of the 22-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a protective black helmet, suggesting he might be engaged in an outdoor activity. His hands are raised to his face, holding a black walkie-talkie to his ear, indicating he is in the middle of a conversation. His mouth is open wide, as if he is shouting or making an exclamation, adding a sense of urgency or excitement to the scene. The man's position and actions suggest he is actively participating in a communication or coordination process. The image does not contain any text or other discernible objects. The relative position of the man and the background suggests he is the main subject of this image. The image does not provide any additional details about the location or the context of the man's actions.
-Qalign quality score of the 22-th scene: 4.94921875
-Qalign aesthetic score of the 22-th scene: 3.23828125
-Clip-t score of the 22-th scene: 0.0598
-Motion scores of the 22-th scene: 17.73211669921875
-(Compress) Motion scores of the 22-th scene: 11.071372032165527
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 21-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a matching yellow helmet, adding a pop of color to the scene. His hands are clasped together in front of him, suggesting a moment of contemplation or anticipation.  The man is engaged in a phone conversation, as indicated by the cell phone he holds to his ear. His expression is one of surprise or excitement, perhaps due to an unexpected news or a pleasant conversation. The precise location of the objects is not discernible from the image.  The image does not contain any text or other objects that can be confidently identified. The relative positions of the objects are not applicable in this context as the man is the sole focus of the image. The image is a realistic representation of a moment in time, devoid of any imaginary content.
+Qalign quality score of the 21-th scene: 4.90234375
+Qalign aesthetic score of the 21-th scene: 3.365234375
+Clip-t score of the 21-th scene: 0.0595
+Motion scores of the 21-th scene: 13.941645622253418
+(Compress) Motion scores of the 21-th scene: 15.722588539123535
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 803
 Scene end frame: 832
-Caption of the 23-th scene: In the image, a young woman is the central figure, standing in front of a blue car. She is dressed in a black off-the-shoulder dress that contrasts with the car's color. The dress features a ruffled neckline, adding a touch of elegance to her outfit. A silver necklace adorns her neck, catching the light and adding a sparkle to her appearance.  Her hair is styled in a short bob, giving her a chic and modern look. She is looking off to the side, her gaze directed away from the camera, suggesting she might be lost in thought or observing something out of frame.  The background of the image is blurred, drawing focus to the woman and the car. However, it appears to be an outdoor setting, possibly a parking lot or a street. The blue car behind her is parked, and its color stands out against the softer hues of the background.  Overall, the image captures a moment of quiet introspection, with the woman and the car as the main subjects against a backdrop that suggests an urban setting.
-Qalign quality score of the 23-th scene: 4.94140625
-Qalign aesthetic score of the 23-th scene: 3.44140625
-Clip-t score of the 23-th scene: 0.1295
-Motion scores of the 23-th scene: 61.82383346557617
-(Compress) Motion scores of the 23-th scene: 24.825164794921875
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 22-th scene: In the image, a young woman is the central figure, standing in front of a blue car. She is dressed in a black off-the-shoulder dress, adding a touch of elegance to her appearance. A silver necklace adorns her neck, catching the eye with its metallic sheen. Her hair, styled in loose waves, adds a casual yet chic vibe to her overall look.  The car behind her is a striking blue, its color contrasting beautifully with the woman's black dress. The car's sleek design suggests it's a modern model.  The setting appears to be outdoors, with a building visible in the background. The building's architecture suggests it could be a commercial or residential structure. The sky above is clear, indicating a bright and sunny day.  The woman's gaze is directed off to the side, and her expression is serious, suggesting she might be deep in thought or focused on something out of frame. The image captures a moment of quiet intensity, with the woman, the car, and the building each playing their part in this narrative.
+Qalign quality score of the 22-th scene: 4.94140625
+Qalign aesthetic score of the 22-th scene: 3.494140625
+Clip-t score of the 22-th scene: 0.1297
+Motion scores of the 22-th scene: 65.91838073730469
+(Compress) Motion scores of the 22-th scene: 38.63071823120117
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 833
 Scene end frame: 853
-Caption of the 24-th scene: The image features a close-up view of a piece of paper, which is the main subject. The paper is predominantly blue in color, with a slight texture that adds depth to its surface. The text on the paper is written in an Asian language, specifically Chinese, and it reads "无论何时何地都要坚持自己的信念". This translates to "No matter when, no matter where, always adhere to your beliefs". The paper is slightly crumpled, suggesting it has been used or handled. The background is blurred, drawing focus to the paper and its text. The overall image gives a sense of a moment captured in time, perhaps a reminder or a motivational quote.
-Qalign quality score of the 24-th scene: 4.109375
-Qalign aesthetic score of the 24-th scene: 2.34375
-Clip-t score of the 24-th scene: 0.1348
-Motion scores of the 24-th scene: 13.013954162597656
-(Compress) Motion scores of the 24-th scene: 17.2309513092041
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 23-th scene: The image features a close-up view of a piece of paper, which is the main subject. The paper is white and appears to be slightly crumpled, adding a sense of texture to the image. The text on the paper is written in an Asian language, specifically Chinese, and it reads "无为而治". The background of the image is blurred, but it appears to be a dark blue color, providing a stark contrast to the white paper. The paper is held in a hand, which is not visible in the image. The overall composition of the image suggests a focus on the text and its meaning.
+Qalign quality score of the 23-th scene: 4.0703125
+Qalign aesthetic score of the 23-th scene: 2.25
+Clip-t score of the 23-th scene: 0.1293
+Motion scores of the 23-th scene: 2.4763002395629883
+(Compress) Motion scores of the 23-th scene: 20.250335693359375
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 854
-Scene end frame: 871
-Caption of the 25-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a black helmet, suggesting he might be engaged in an outdoor activity. His face is lit up with a broad smile, indicating he is in a good mood or perhaps excited about something. In his right hand, he holds a black object, the purpose of which is not immediately clear from the image. The man's position and the direction of his gaze suggest he is looking towards the camera, making him the focal point of the image. There are no discernible texts or other objects in the image. The relative position of the man to the background suggests he is standing in the foreground, with the sky behind him. The image does not provide enough detail to confidently count the number of objects or describe their precise locations. The overall scene appears to be a casual, outdoor setting with the man as the main subject.
-Qalign quality score of the 25-th scene: 4.74609375
-Qalign aesthetic score of the 25-th scene: 3.08984375
-Clip-t score of the 25-th scene: 0.0563
-Motion scores of the 25-th scene: 48.31061935424805
-(Compress) Motion scores of the 25-th scene: 20.346586227416992
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
-Scene start frame: 872
+Scene end frame: 872
+Caption of the 24-th scene: In the image, a man is the central figure, standing against a backdrop of a clear blue sky. He is dressed in a vibrant yellow jacket and a black helmet, suggesting he might be engaged in an outdoor activity. His face is lit up with a broad smile, indicating he is in a good mood or perhaps excited about something. In his left hand, he holds a black object, the purpose of which is not immediately clear from the image. The man's position and the direction of his gaze suggest he is looking towards the camera, making him the focal point of the image. The overall scene appears to be set outdoors, possibly on a sunny day given the bright lighting. The image does not contain any text. The man, his attire, and the object he holds are the main elements in this image. The relative positions of these objects and their interactions create a dynamic and engaging scene.
+Qalign quality score of the 24-th scene: 4.8203125
+Qalign aesthetic score of the 24-th scene: 3.080078125
+Clip-t score of the 24-th scene: 0.0568
+Motion scores of the 24-th scene: 22.65454864501953
+(Compress) Motion scores of the 24-th scene: 24.431385040283203
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
+Scene start frame: 873
 Scene end frame: 910
-Caption of the 26-th scene: The image captures a moment on a city street. A woman, the main subject, is seen walking away from the camera. She is elegantly dressed in a black dress and heels, carrying a white shopping bag in her hand. The street she is on is lined with trees and buildings, creating a backdrop for the scene. A black car is parked on the side of the street, adding to the urban setting. The woman's position relative to the car suggests she is walking past it. The image does not contain any text. The overall scene is a blend of urban life and fashion.
-Qalign quality score of the 26-th scene: 4.4765625
-Qalign aesthetic score of the 26-th scene: 2.720703125
-Clip-t score of the 26-th scene: 0.086
-Motion scores of the 26-th scene: 109.44242095947266
-(Compress) Motion scores of the 26-th scene: 63.36480712890625
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 25-th scene: The image captures a moment on a city street. A woman, dressed in a black dress, is walking away from the camera. She carries a white bag in her hand. The street she traverses is lined with trees and buildings, creating a backdrop for her journey. A black car is parked on the side of the street, adding to the urban setting. The woman's position relative to the car suggests she is moving past it. The image does not contain any discernible text. The overall scene is a snapshot of everyday life in a city.
+Qalign quality score of the 25-th scene: 4.32421875
+Qalign aesthetic score of the 25-th scene: 2.626953125
+Clip-t score of the 25-th scene: 0.0725
+Motion scores of the 25-th scene: 88.58943939208984
+(Compress) Motion scores of the 25-th scene: 55.035552978515625
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 911
 Scene end frame: 935
-Caption of the 27-th scene: In the image, a young woman is the central figure, standing in a park. She is dressed in a black off-the-shoulder top, which contrasts with the greenery of the park. Her hair is styled in a high ponytail, adding a touch of elegance to her appearance. She is wearing earrings that catch the light, and a necklace that adds a layer of sophistication.  The park around her is lush and green, with trees and a playground visible in the background. The playground, with its vibrant colors, adds a playful element to the scene. The woman's position in the park suggests she is enjoying a leisurely day outdoors.  The image also contains text in Chinese that reads "她的眼睛里闪烁着坚定的决心", which translates to "Her eyes shine with determination". This text, combined with the woman's pose and expression, suggests a sense of determination and resilience.  Overall, the image captures a moment of tranquility and determination in an everyday setting.
-Qalign quality score of the 27-th scene: 4.91015625
-Qalign aesthetic score of the 27-th scene: 3.25390625
-Clip-t score of the 27-th scene: 0.1101
-Motion scores of the 27-th scene: 52.04518127441406
-(Compress) Motion scores of the 27-th scene: 17.899944305419922
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 26-th scene: In the image, a young woman is the central figure, standing in a park. She is dressed in a black off-the-shoulder top, which contrasts with the greenery of the park. Her hair is styled in a bun, adding a casual yet chic vibe to her look. She is wearing earrings that add a touch of elegance to her overall appearance.  The park around her is lush with trees, providing a serene backdrop to the scene. A playground can be seen in the background, suggesting that the park is a family-friendly space. The woman's gaze is directed upwards and to the left, as if she is looking at something or someone out of frame.  The image does not contain any text or other discernible objects. The relative positions of the objects suggest that the woman is standing a short distance away from the playground, with the trees surrounding her. The image captures a moment of quiet contemplation in an everyday setting.
+Qalign quality score of the 26-th scene: 4.8671875
+Qalign aesthetic score of the 26-th scene: 3.34765625
+Clip-t score of the 26-th scene: 0.1235
+Motion scores of the 26-th scene: 16.67755126953125
+(Compress) Motion scores of the 26-th scene: 17.4036808013916
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 936
 Scene end frame: 950
-Caption of the 28-th scene: In the image, there is a man and a woman standing on a road. The man is wearing a yellow jacket and a helmet, and he is holding a piece of paper in his hand. The woman is dressed in a black dress and is looking at the man with a concerned expression. Behind them, there is a large rock formation and a motorcycle parked on the side of the road. The sky above them is blue, and there are trees in the background. The man and woman appear to be the main subjects of the image, with the rock formation and motorcycle serving as the background elements. The woman's concerned expression suggests that the man might be sharing some important information with her. The blue sky and trees add a serene atmosphere to the scene.
-Qalign quality score of the 28-th scene: 4.52734375
-Qalign aesthetic score of the 28-th scene: 2.66796875
-Clip-t score of the 28-th scene: 0.0817
-Motion scores of the 28-th scene: 107.00697326660156
-(Compress) Motion scores of the 28-th scene: 22.457979202270508
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 27-th scene: In the image, there is a man and a woman standing on a road. The man is wearing a yellow helmet and a gray jacket with a yellow stripe. He is holding a white paper in his hand. The woman is dressed in a black dress and is looking at the man with a concerned expression. Behind them, there is a large rock formation and a motorcycle parked on the side of the road. The road they are standing on is gray and appears to be in a rural area. The sky above them is blue and there are trees visible in the background. The man and woman seem to be the main subjects of the image, with the rock formation and motorcycle serving as the background elements. The woman's concerned expression suggests that the man might be sharing something important with her. The overall scene suggests a moment of interaction between the two individuals in a natural setting.
+Qalign quality score of the 27-th scene: 4.21875
+Qalign aesthetic score of the 27-th scene: 2.55078125
+Clip-t score of the 27-th scene: 0.0815
+Motion scores of the 27-th scene: 102.07135772705078
+(Compress) Motion scores of the 27-th scene: 22.28411102294922
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 951
 Scene end frame: 987
-Caption of the 29-th scene: In the image, a person is standing in a park, engrossed in reading a piece of paper. The individual is clad in a yellow jacket and a matching yellow helmet, which is adorned with a black logo. The paper they're holding is white and features black text. The park around them is lush with trees, and a gazebo can be seen in the background. The person's focus on the paper suggests they might be reading an important message or document. The overall scene is peaceful and serene, with the person appearing to be in a quiet, contemplative moment.
-Qalign quality score of the 29-th scene: 4.80078125
-Qalign aesthetic score of the 29-th scene: 3.06640625
-Clip-t score of the 29-th scene: 0.0854
-Motion scores of the 29-th scene: 21.079978942871094
-(Compress) Motion scores of the 29-th scene: 9.724137306213379
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 28-th scene: In the image, a person is standing in a park, engrossed in reading a piece of paper. The individual is clad in a vibrant yellow jacket and a matching yellow helmet, which is adorned with a black logo. The paper they're holding is white, with black text that appears to be in a foreign language. The park around them is lush with trees, and a gazebo can be seen in the background. The person's focus on the paper suggests they might be studying or reading something important. The overall scene is peaceful and serene, with the person being the main subject amidst the natural backdrop.
+Qalign quality score of the 28-th scene: 4.765625
+Qalign aesthetic score of the 28-th scene: 3.091796875
+Clip-t score of the 28-th scene: 0.0969
+Motion scores of the 28-th scene: 11.571990966796875
+(Compress) Motion scores of the 28-th scene: 8.653587341308594
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1022
 Scene end frame: 1056
-Caption of the 31-th scene: In the image, a man is the central figure, standing in front of a backdrop of trees. He is dressed in a yellow jacket and a black helmet, suggesting he might be engaged in some outdoor activity. His gaze is directed off to the side, and his expression is one of surprise, indicating that he might have just witnessed something unexpected. The image also contains some text in Chinese, which reads "拍摄日期：2021年10月27日", "拍摄地点：日本", "拍摄人员：", "拍摄时间：", "拍摄环境：", "拍摄设备：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄费用：", "拍摄�
-Qalign quality score of the 31-th scene: 4.80078125
-Qalign aesthetic score of the 31-th scene: 2.87890625
-Clip-t score of the 31-th scene: 0.0839
-Motion scores of the 31-th scene: 39.690826416015625
-(Compress) Motion scores of the 31-th scene: 14.662372589111328
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 30-th scene: In the image, a man is the central figure, standing in front of a backdrop of trees. He is dressed in a vibrant yellow jacket and a black helmet, suggesting he might be engaged in some outdoor activity. His gaze is directed off to the side, and his expression is one of surprise, indicating that he might have just witnessed something unexpected. In his hand, he holds a piece of paper, although the content of the paper is not visible in the image. The man's position relative to the trees suggests he is standing quite close to them. The image does not contain any text. The overall scene appears to be set in a natural environment.
+Qalign quality score of the 30-th scene: 4.83984375
+Qalign aesthetic score of the 30-th scene: 2.9375
+Clip-t score of the 30-th scene: 0.0935
+Motion scores of the 30-th scene: 22.979537963867188
+(Compress) Motion scores of the 30-th scene: 13.056538581848145
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1309
 Scene end frame: 1346
-Caption of the 39-th scene: The image captures a moment of a young woman, her face turned slightly to the left, her gaze directed towards the left. She is adorned with a pair of earrings, one silver and the other black, adding a touch of elegance to her appearance. A black hair tie, simple yet stylish, holds her hair in place.   She is dressed in a black dress, the color of her hair tie, creating a harmonious color scheme. The dress appears to be made of a shiny material, possibly silk or satin, reflecting the light in the room.   The background is blurred, drawing focus to the woman, but it appears to be a garden or park, suggesting an outdoor setting. The greenery in the background contrasts with the woman's black dress, making her the focal point of the image.   The image does not contain any text or other discernible objects. The relative position of the woman to the background suggests she is standing in the foreground, further emphasizing her presence in the image. The overall composition of the image places the woman as the central figure, with the garden or park serving as a serene backdrop.
-Qalign quality score of the 39-th scene: 4.91015625
-Qalign aesthetic score of the 39-th scene: 3.392578125
-Clip-t score of the 39-th scene: 0.1149
-Motion scores of the 39-th scene: 34.799739837646484
-(Compress) Motion scores of the 39-th scene: 19.24925994873047
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 38-th scene: In the image, a young woman is the central figure. She is adorned with a silver necklace that features a pendant, adding a touch of elegance to her appearance. Her hair, styled in a chic updo, is embellished with a silver hair clip, complementing her overall look.  She is dressed in a black dress, which contrasts beautifully with the silver accents in her outfit. The dress, combined with her accessories, gives her a sophisticated and stylish appearance.  The setting of the image is outdoors, with a blurred background that suggests a park or garden. The focus of the image is on the woman, making her the main subject of the photograph. The colors in the image are predominantly black, silver, and green, creating a harmonious and visually pleasing palette.  The woman's position in the image is central, with the background elements slightly blurred, further emphasizing her as the focal point. The image does not contain any text or other discernible objects. The relative positions of the objects in the image are such that the woman is in the foreground, while the park or garden forms the background. The image does not provide any information that allows for a confident count of the objects present.   This detailed description should enable DALL-E or Midjourney to recreate the image accurately.
+Qalign quality score of the 38-th scene: 4.91796875
+Qalign aesthetic score of the 38-th scene: 3.4296875
+Clip-t score of the 38-th scene: 0.1196
+Motion scores of the 38-th scene: 22.94207000732422
+(Compress) Motion scores of the 38-th scene: 16.513593673706055
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1380
 Scene end frame: 1415
-Caption of the 41-th scene: The image captures a moment of a young woman in a park. She is the central figure, standing in front of a playground. Her attire consists of a black off-the-shoulder top, which contrasts with the greenery of the park. A silver necklace adorns her neck, adding a touch of elegance to her outfit. Her hair, styled in a bun, complements her overall look. She is looking off to the side, her expression serious, as if lost in thought. The playground in the background, with its red and green structures, adds a vibrant splash of color to the scene. The image does not contain any text. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is standing in the foreground, while the playground is in the background. The image does not provide any information about the woman's actions or the playground's purpose. The image does not contain any text. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is standing in the foreground, while the playground is in the background. The image does not provide any information about the woman's actions or the playground's purpose. The image does not contain any text. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman's top, and red and green from the playground structures. The image does not contain any other objects or people. The woman's position relative to the playground suggests she is at a distance from it. The playground appears to be empty, with no other people visible in the image. The woman's serious expression and the empty playground create a sense of solitude. The image does not provide any information about the time of day or the weather. The colors in the image are predominantly green from the park, black from the woman
-Qalign quality score of the 41-th scene: 4.91796875
-Qalign aesthetic score of the 41-th scene: 3.267578125
-Clip-t score of the 41-th scene: 0.1194
-Motion scores of the 41-th scene: 38.80073547363281
-(Compress) Motion scores of the 41-th scene: 12.122509002685547
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 40-th scene: In the image, a young woman is the central figure, standing in a park. She is dressed in a black off-the-shoulder top, which contrasts with the greenery of the park. Her hair is styled in a bun, adding a casual yet chic vibe to her look. She is wearing earrings that are silver and black in color, adding a touch of elegance to her overall appearance.  She is looking off to the side, her gaze directed towards something or someone out of frame. Her expression is neutral, suggesting she might be deep in thought or simply enjoying the serene atmosphere of the park.  The park itself is lush and green, with trees and grass filling the background. A playground can be seen in the distance, indicating that the park is a family-friendly space. The woman's position in the park, coupled with her attire and accessories, suggests she might be taking a break from her daily routine to enjoy the outdoors.  Overall, the image captures a moment of quiet reflection in an everyday setting, with the woman's attire and accessories adding a touch of style to the scene.
+Qalign quality score of the 40-th scene: 4.93359375
+Qalign aesthetic score of the 40-th scene: 3.380859375
+Clip-t score of the 40-th scene: 0.1189
+Motion scores of the 40-th scene: 8.70236587524414
+(Compress) Motion scores of the 40-th scene: 10.47745418548584
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1474
 Scene end frame: 1517
-Caption of the 44-th scene: In the image, a man is captured in the act of opening the door of a car. He is dressed in a brown jacket and glasses, adding a touch of sophistication to his appearance. The car, painted in a shade of green, stands out against the backdrop of a building. The man's action of opening the door suggests he might be about to embark on a journey or has just arrived at his destination. The building in the background, though blurred, adds depth to the scene, indicating that the car is parked in an urban setting. The image does not contain any discernible text. The relative positions of the objects suggest that the man is standing on the side of the car, with the door open and the building behind him. The image is a snapshot of a moment, frozen in time, telling a story without words.
-Qalign quality score of the 44-th scene: 4.625
-Qalign aesthetic score of the 44-th scene: 2.982421875
-Clip-t score of the 44-th scene: 0.1441
-Motion scores of the 44-th scene: 50.4212646484375
-(Compress) Motion scores of the 44-th scene: 26.02328109741211
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 43-th scene: In the image, a man is captured in the act of opening the door of a green car. He is dressed in a gray suit, complete with a black tie, and is wearing glasses. The car door, which he is holding open with his right hand, is black. The background of the image is blurred, but it appears to be a street lined with buildings. The man's action of opening the car door suggests he might be preparing to enter or exit the vehicle. The precise location of the objects is as follows: the man is in front of the car, the car door is to his right, and the buildings are in the background. The colors in the image are predominantly green (the car), gray (the man's suit), and black (the car door). The man's glasses are black, matching the color of the car door. The buildings in the background are not clearly visible due to the blur. The man's action of opening the car door is the main focus of the image.
+Qalign quality score of the 43-th scene: 4.5703125
+Qalign aesthetic score of the 43-th scene: 2.9140625
+Clip-t score of the 43-th scene: 0.1464
+Motion scores of the 43-th scene: 20.25686264038086
+(Compress) Motion scores of the 43-th scene: 25.850421905517578
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
+Scene start frame: 1518
+Scene end frame: 1564
+Caption of the 44-th scene: In the image, a man is the central figure, standing in a park. He is dressed in a vibrant yellow jacket and a matching yellow helmet, which is equipped with a black visor. His gaze is directed off to the side, suggesting he might be looking at something or someone out of frame. The park around him is lush with greenery, providing a serene backdrop to the scene. The man's position in the park and his attire suggest he might be engaged in some outdoor activity or sport. The image does not contain any text. The overall scene is a blend of human activity and natural beauty.
+Qalign quality score of the 44-th scene: 4.69921875
+Qalign aesthetic score of the 44-th scene: 2.732421875
+Clip-t score of the 44-th scene: 0.0804
+Motion scores of the 44-th scene: 17.412464141845703
+(Compress) Motion scores of the 44-th scene: 8.282011032104492
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1565
 Scene end frame: 1608
-Caption of the 46-th scene: In the image, a young woman is the central figure, standing in front of a blue car. She is dressed in a black off-the-shoulder top, which contrasts with the car behind her. Her hair is styled in a bun, adding a touch of elegance to her appearance. She is wearing earrings that are a mix of silver and gold, and a necklace that features a pendant in the shape of a flower. The background is blurred, drawing focus to the woman, but it appears to be an outdoor setting with trees and a building. The image also contains text in Chinese that reads "她的眼睛看着我", which translates to "Her eyes are looking at me".
-Qalign quality score of the 46-th scene: 4.921875
-Qalign aesthetic score of the 46-th scene: 3.4453125
-Clip-t score of the 46-th scene: 0.1287
-Motion scores of the 46-th scene: 35.743507385253906
-(Compress) Motion scores of the 46-th scene: 15.074151039123535
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 45-th scene: In the image, a young woman is the central figure, standing in front of a blue car. She is dressed in a black off-the-shoulder top, which contrasts with the white paper she holds in her hands. Her hair is styled in a bun, adding a touch of elegance to her appearance. She is adorned with a silver necklace and earrings, which catch the light and add a sparkle to her look. Her gaze is directed off to the side, and her expression is serious, suggesting she is deep in thought. The blue car behind her is parked, and a building can be seen in the background, providing context to the setting. The image captures a moment of quiet intensity, with the woman's serious expression and the off-the-shoulder top adding a sense of intrigue.
+Qalign quality score of the 45-th scene: 4.9375
+Qalign aesthetic score of the 45-th scene: 3.36328125
+Clip-t score of the 45-th scene: 0.1297
+Motion scores of the 45-th scene: 17.279823303222656
+(Compress) Motion scores of the 45-th scene: 13.258164405822754
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1682
 Scene end frame: 1748
-Caption of the 49-th scene: In the image, a young man is the central figure, standing against a backdrop of a blurred cityscape. He is dressed in a gray suit, which is complemented by a black tie adorned with a white and blue design. His expression is one of surprise, as indicated by his open mouth and wide eyes. The man is positioned slightly to the left of the frame, with the cityscape extending behind him. The overall scene suggests an urban setting, possibly during a daytime event.
-Qalign quality score of the 49-th scene: 4.8984375
-Qalign aesthetic score of the 49-th scene: 2.888671875
-Clip-t score of the 49-th scene: 0.1133
-Motion scores of the 49-th scene: 39.25236511230469
-(Compress) Motion scores of the 49-th scene: 25.967681884765625
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 48-th scene: In the image, a young man is the central figure, standing against a backdrop of a dark, blurred background. He is dressed in a gray suit, which is complemented by a black tie. A gold pin adorns his lapel, adding a touch of elegance to his attire. His expression is one of surprise, as if he has just witnessed something unexpected. The man's position in the frame suggests he is the main subject of this image. The overall composition of the image places the man in sharp focus, with the background serving to highlight his presence.
+Qalign quality score of the 48-th scene: 4.88671875
+Qalign aesthetic score of the 48-th scene: 2.78125
+Clip-t score of the 48-th scene: 0.1227
+Motion scores of the 48-th scene: 24.346145629882812
+(Compress) Motion scores of the 48-th scene: 26.2458553314209
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1777
 Scene end frame: 1812
-Caption of the 51-th scene: In the image, a man is captured in a moment of surprise. He is dressed in a gray suit, which is complemented by a black tie adorned with a white and blue emblem. His glasses, a striking shade of red, add a pop of color to his ensemble. The man's expression is one of surprise, his mouth slightly open as if he's just heard something unexpected. The background is a dark blue color, providing a stark contrast to the man and making him the focal point of the image. There are no discernible texts or other objects in the image. The man's position relative to the background suggests he is standing in front of it. The image does not provide enough detail to confidently determine the number of objects or their precise locations. The overall composition of the image places the man centrally, drawing the viewer's attention directly to him and his expressive pose.
-Qalign quality score of the 51-th scene: 4.91015625
-Qalign aesthetic score of the 51-th scene: 2.947265625
-Clip-t score of the 51-th scene: 0.1156
-Motion scores of the 51-th scene: 49.802978515625
-(Compress) Motion scores of the 51-th scene: 18.948579788208008
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 50-th scene: In the image, a man is captured in a moment of surprise. He is dressed in a gray suit, which is complemented by a black tie adorned with a white and blue design. His glasses, a striking shade of red, add a pop of color to his ensemble. The man's expression is one of surprise, his mouth slightly open as if he's just heard something unexpected. The background is a dark blue color, providing a stark contrast to the man and making him the focal point of the image. There are no other discernible objects or people in the image. The man's position relative to the background suggests he is standing in front of it. The image does not contain any text. The overall composition of the image places the man centrally, drawing the viewer's attention directly to him and his surprised expression.
+Qalign quality score of the 50-th scene: 4.91796875
+Qalign aesthetic score of the 50-th scene: 2.9453125
+Clip-t score of the 50-th scene: 0.1247
+Motion scores of the 50-th scene: 16.054487228393555
+(Compress) Motion scores of the 50-th scene: 17.256181716918945
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1847
 Scene end frame: 1883
-Caption of the 53-th scene: In the image, a man is the central figure, standing in front of a building. He is dressed in a brown suit, which is complemented by a black shirt and a gray tie. A medal, adorned with a blue ribbon, is pinned to his suit, adding a touch of distinction to his attire. His arms are outstretched, as if he is in the middle of a speech or presentation.  The building behind him is brown and has a sign that reads "大学", indicating it's a university. The man is standing on a grassy area, which adds a touch of nature to the scene. The overall image gives the impression of a formal event taking place at a university.
-Qalign quality score of the 53-th scene: 4.83203125
-Qalign aesthetic score of the 53-th scene: 2.943359375
-Clip-t score of the 53-th scene: 0.1179
-Motion scores of the 53-th scene: 14.277735710144043
-(Compress) Motion scores of the 53-th scene: 9.286520957946777
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 52-th scene: In the image, a young man is the central figure, standing in front of a building with a blue roof. He is dressed in a gray suit, which is complemented by a black shirt and a black tie. His arms are outstretched, as if he is in the middle of an animated conversation or explanation. The building behind him has a brown facade, and there's a tree visible in the background, adding a touch of nature to the urban setting. The man's position relative to the building and the tree suggests he is standing quite close to them. The image does not contain any text. The overall scene appears to be a casual yet professional setting, possibly an outdoor office or a meeting spot.
+Qalign quality score of the 52-th scene: 4.8828125
+Qalign aesthetic score of the 52-th scene: 2.974609375
+Clip-t score of the 52-th scene: 0.122
+Motion scores of the 52-th scene: 9.419116020202637
+(Compress) Motion scores of the 52-th scene: 8.560576438903809
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1884
 Scene end frame: 1920
-Caption of the 54-th scene: In the image, a young man is the central figure, exuding an air of confidence. He is dressed in a gray suit, which is complemented by a black shirt and a black tie adorned with a white bird design. His face is lit up with a warm smile, adding a friendly touch to his overall appearance.  He is pointing to the left with his right hand, as if directing attention to something out of frame. His left hand is casually tucked into his pocket, suggesting a relaxed demeanor. The background is blurred, drawing focus to the man, but it appears to be an outdoor setting with trees and a building visible in the distance. The man's position in the foreground, along with his attire and gesture, suggests he might be in a professional or formal setting. The image does not contain any text. The relative positions of the objects and the man suggest he is standing in front of the background elements. The man's action of pointing adds a dynamic element to the otherwise static scene.
-Qalign quality score of the 54-th scene: 4.421875
-Qalign aesthetic score of the 54-th scene: 2.876953125
-Clip-t score of the 54-th scene: 0.1149
-Motion scores of the 54-th scene: 40.04118347167969
-(Compress) Motion scores of the 54-th scene: 27.846242904663086
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 53-th scene: In the image, a young man is the central figure, exuding an air of confidence. He is dressed in a gray suit, which is complemented by a black shirt and a black tie. His face is lit up with a broad smile, adding a warm and friendly vibe to the scene.  He is pointing to the left with his right hand, as if directing attention to something off-frame. His left hand is casually tucked into his pocket, suggesting a relaxed demeanor. The background is blurred, drawing focus to the man, but it appears to be an outdoor setting with trees and a building visible in the distance.  The man's attire and the outdoor setting suggest a professional or formal occasion. However, the exact context or location is not discernible from the image. The overall composition of the image places the man as the main subject, with his action of pointing and his attire suggesting a narrative that is open to interpretation.
+Qalign quality score of the 53-th scene: 4.4453125
+Qalign aesthetic score of the 53-th scene: 2.892578125
+Clip-t score of the 53-th scene: 0.1222
+Motion scores of the 53-th scene: 21.66225242614746
+(Compress) Motion scores of the 53-th scene: 28.424394607543945
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1921
 Scene end frame: 1964
-Caption of the 55-th scene: In the image, there is a woman and a man standing in front of a black car. The woman is dressed in a black off-the-shoulder dress and is holding a white piece of paper in her hand. The man is wearing a brown suit and is holding a cigarette in his hand. The car behind them is black and has a sign on the windshield that reads "No Parking". The woman and the man appear to be engaged in a conversation. The woman is looking at the man, and the man is looking off to the side. The background of the image is blurred, but it appears to be a street with trees and buildings. The woman and the man are the main subjects of the image, and their actions and attire suggest a formal or professional setting. The car and the sign on the windshield provide context to the location, indicating that this might be a public or commercial area. The trees and buildings in the background add depth to the image, creating a sense of space and distance. The colors in the image are mostly neutral, with the woman's black dress and the man's brown suit standing out against the black car and the more muted colors of the background. The white piece of paper in the woman's hand and the cigarette in the man's hand add contrasting colors to the scene. The overall composition of the image suggests a moment captured in time, possibly during a business meeting or a formal event.
-Qalign quality score of the 55-th scene: 4.81640625
-Qalign aesthetic score of the 55-th scene: 2.9921875
-Clip-t score of the 55-th scene: 0.1171
-Motion scores of the 55-th scene: 26.322948455810547
-(Compress) Motion scores of the 55-th scene: 17.61038589477539
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 54-th scene: In the image, there is a woman and a man standing on a street. The woman is dressed in a black off-the-shoulder dress and is holding a white piece of paper in her hand. The man is wearing a brown suit and is holding a cigarette in his hand. They are standing in front of a black car. The background of the image features a building and trees. The woman and the man appear to be engaged in a conversation. The woman's position relative to the man is slightly to his left. The car is directly behind them, and the building and trees are further in the background. The woman's dress is the darkest object in the image, contrasting with the lighter colors of the man's suit and the surrounding environment. The white paper in the woman's hand stands out against her black dress. The cigarette in the man's hand is the only object in the image that is not in focus. The overall scene suggests a casual, outdoor setting.
+Qalign quality score of the 54-th scene: 4.80078125
+Qalign aesthetic score of the 54-th scene: 3.033203125
+Clip-t score of the 54-th scene: 0.1118
+Motion scores of the 54-th scene: 26.200435638427734
+(Compress) Motion scores of the 54-th scene: 17.577741622924805
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 1965
 Scene end frame: 2006
-Caption of the 56-th scene: The image captures a moment in the life of a construction worker. The worker, clad in a yellow hard hat and a matching yellow jacket adorned with a black logo, stands in the foreground. His gaze is directed to the left, suggesting he is focused on something or someone out of frame. The background is a serene contrast to the worker's attire, featuring a lush green field dotted with trees. The image also contains text in Chinese that reads "工人穿着防护装备在工地上", which translates to "A worker wearing protective equipment on a construction site". This suggests that the worker is indeed on a construction site, ready to perform his duties.
-Qalign quality score of the 56-th scene: 4.39453125
-Qalign aesthetic score of the 56-th scene: 2.734375
-Clip-t score of the 56-th scene: 0.0728
-Motion scores of the 56-th scene: 46.941307067871094
-(Compress) Motion scores of the 56-th scene: 19.580488204956055
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 55-th scene: The image depicts a man in a construction site. He is wearing a yellow jacket with a black logo on the left chest, a gray helmet, and a yellow hard hat. The man is walking on a grassy area with trees in the background. The colors in the image are predominantly yellow, gray, and green. The man appears to be in motion, possibly walking or moving around the site. The trees in the background suggest that the construction site might be located in a suburban or rural area. The man's attire indicates that he is likely a worker at the site. The black logo on his jacket could be the logo of the construction company he works for. The image does not contain any text. The relative positions of the objects suggest that the man is the main subject of the image, with the trees and grass serving as the background. The man is in the foreground, while the trees are in the middle ground and the sky is in the background. The image does not contain any other discernible objects or people.
+Qalign quality score of the 55-th scene: 4.515625
+Qalign aesthetic score of the 55-th scene: 2.767578125
+Clip-t score of the 55-th scene: 0.0719
+Motion scores of the 55-th scene: 38.01243209838867
+(Compress) Motion scores of the 55-th scene: 20.082477569580078
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 2007
 Scene end frame: 2023
-Caption of the 57-th scene: In the image, a young man is the central figure, exuding an air of sophistication. He is dressed in a gray suit, which is complemented by a black shirt and a black tie. Adding a touch of color to his ensemble is a tie clip, adorned with a design in hues of blue and white.  The man's gaze is directed off to the side, suggesting he is deep in thought or perhaps observing something out of frame. His expression is serious, indicating a sense of focus or determination.  The background of the image is blurred, drawing attention to the man. However, it appears to be an outdoor setting, possibly a street or a sidewalk. The precise location or time is indeterminable due to the blurred background.  There are no discernible texts or other objects in the image. The relative position of the man to the background suggests he is standing in the foreground, further emphasizing his prominence in the image. The image does not provide enough detail to confidently count the number of objects or describe their actions. The overall composition of the image places the man as the main subject, with the background serving to frame him.
-Qalign quality score of the 57-th scene: 4.8125
-Qalign aesthetic score of the 57-th scene: 3.09375
-Clip-t score of the 57-th scene: 0.1121
-Motion scores of the 57-th scene: 31.405820846557617
-(Compress) Motion scores of the 57-th scene: 14.156275749206543
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 56-th scene: In the image, a young man is the central figure, exuding an air of sophistication. He is dressed in a gray suit, which is complemented by a black shirt and a black tie. A silver tie clip adds a touch of elegance to his attire. On his left lapel, a pin bearing the colors of the Russian flag is prominently displayed, suggesting a connection to Russia.  The man's gaze is directed off to the side, and his expression is serious, indicating deep thought or contemplation. His hair is styled in a side part, adding to his distinguished appearance.  The background of the image is blurred, drawing focus to the man. However, it appears to be an outdoor setting with a building visible in the distance. The overall composition of the image suggests a moment captured in the midst of a busy day, with the man taking a moment to pause and reflect.
+Qalign quality score of the 56-th scene: 4.71484375
+Qalign aesthetic score of the 56-th scene: 3.072265625
+Clip-t score of the 56-th scene: 0.11
+Motion scores of the 56-th scene: 5.986922740936279
+(Compress) Motion scores of the 56-th scene: 9.040262222290039
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 2024
 Scene end frame: 2051
-Caption of the 58-th scene: The image captures a tranquil scene in a park. Dominating the foreground is a black motorcycle, its silver handlebars gleaming under the sunlight. The motorcycle is parked on a concrete path, which cuts through the lush green grass of the park.  In the background, a large rock formation rises majestically, its rugged surface a stark contrast to the smooth concrete path. The rocks, bathed in the warm glow of the sun, add a sense of depth and scale to the image.  The sky above is a clear blue, its vast expanse unmarred by clouds. The sun shines brightly, casting long shadows and highlighting the textures of the grass and rocks. The overall effect is a harmonious blend of man-made and natural elements, each contributing to the serene atmosphere of the park.
-Qalign quality score of the 58-th scene: 4.015625
-Qalign aesthetic score of the 58-th scene: 2.318359375
-Clip-t score of the 58-th scene: 0.0939
-Motion scores of the 58-th scene: 88.23229217529297
-(Compress) Motion scores of the 58-th scene: 65.05705261230469
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 57-th scene: The image captures a tranquil scene in a park. Dominating the foreground is a black motorcycle, its silver handlebars gleaming under the sunlight. The motorcycle is parked on a concrete path, which cuts through the lush green grass of the park.  In the background, a large rock formation rises majestically, its rugged surface a stark contrast to the smooth concrete path. The rocks, bathed in the warm glow of the sun, add a sense of depth and scale to the image.  The sky above is a clear blue, its vast expanse unmarred by clouds. The sun shines brightly, casting long shadows and highlighting the textures of the grass and rocks. The overall effect is a harmonious blend of man-made and natural elements, each contributing to the serene atmosphere of the park.
+Qalign quality score of the 57-th scene: 3.6484375
+Qalign aesthetic score of the 57-th scene: 2.4375
+Clip-t score of the 57-th scene: 0.1042
+Motion scores of the 57-th scene: 70.69751739501953
+(Compress) Motion scores of the 57-th scene: 64.71434020996094
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 2052
 Scene end frame: 2081
-Caption of the 59-th scene: In the image, a woman is the central figure, standing in front of a yellow fire hydrant. She is dressed in a black off-the-shoulder dress, adding a touch of elegance to the scene. The fire hydrant, painted in a striking yellow, stands out against the backdrop. The woman's gaze is directed off to the side, suggesting she might be looking at something or someone out of frame. The background is a blur of a building and trees, indicating that the photo was likely taken in an urban setting. The woman's position in front of the fire hydrant and the blurred background create a sense of depth in the image. The overall composition of the image suggests a casual yet stylish moment captured in an everyday setting.
-Qalign quality score of the 59-th scene: 4.78515625
-Qalign aesthetic score of the 59-th scene: 2.8046875
-Clip-t score of the 59-th scene: 0.1176
-Motion scores of the 59-th scene: 34.59372329711914
-(Compress) Motion scores of the 59-th scene: 27.761171340942383
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 58-th scene: In the image, a woman is the central figure, standing in front of a yellow fire hydrant. She is dressed in a black off-the-shoulder dress, adding a touch of elegance to the scene. The fire hydrant, painted in a striking yellow, stands out against the backdrop. The woman's gaze is directed off to the side, suggesting she might be looking at something or someone out of frame. The background is a blur of green and brown hues, indicating a natural setting. The woman's position in front of the fire hydrant and the blurred background create a sense of depth in the image. The overall composition of the image suggests a casual yet stylish outdoor setting.
+Qalign quality score of the 58-th scene: 4.84375
+Qalign aesthetic score of the 58-th scene: 2.943359375
+Clip-t score of the 58-th scene: 0.1259
+Motion scores of the 58-th scene: 29.389461517333984
+(Compress) Motion scores of the 58-th scene: 28.51093864440918
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 2082
 Scene end frame: 2121
-Caption of the 60-th scene: In the image, a man is the central figure, dressed in a vibrant yellow hard hat and a matching yellow jacket. He is kneeling on the ground, his head bowed in a posture of exhaustion or defeat. His gaze is directed downwards, suggesting deep thought or contemplation.  The setting appears to be an outdoor construction site, indicated by the presence of a black construction vehicle in the background. The vehicle is parked on a gray road, which contrasts with the man's bright attire. The man is positioned in front of the vehicle, creating a sense of depth in the image.  The image also contains text in Chinese that reads "劳动者的奋斗", which translates to "The laborer's struggle". This phrase, combined with the man's attire and the construction site setting, suggests a narrative of hard work and perseverance. The overall composition of the image conveys a sense of resilience and determination.
-Qalign quality score of the 60-th scene: 4.4453125
-Qalign aesthetic score of the 60-th scene: 3.056640625
-Clip-t score of the 60-th scene: 0.1023
-Motion scores of the 60-th scene: 43.68684005737305
-(Compress) Motion scores of the 60-th scene: 10.7170991897583
-Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+Caption of the 59-th scene: In the image, a man is the central figure, dressed in a vibrant yellow hard hat and a matching yellow jacket. He is kneeling on the ground, his head bowed in a posture of exhaustion or defeat. His hands are clasped together in front of him, perhaps in a gesture of surrender or contemplation.  The setting is a street, characterized by a gray asphalt surface that contrasts with the man's bright attire. A black car is parked in the background, adding a sense of depth to the scene. The man's position relative to the car suggests he is closer to the viewer, while the car is further away.  There are no discernible texts or other objects in the image. The focus is solely on the man and his immediate surroundings. The image captures a moment of solitude and introspection, with the man's yellow clothing standing out against the more muted colors of the street and car.
+Qalign quality score of the 59-th scene: 4.5625
+Qalign aesthetic score of the 59-th scene: 3.1328125
+Clip-t score of the 59-th scene: 0.1156
+Motion scores of the 59-th scene: 28.627479553222656
+(Compress) Motion scores of the 59-th scene: 13.781472206115723
+Video path: data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4
 Scene start frame: 2171
 Scene end frame: 2204
-Caption of the 62-th scene: The image features a young man who is the main subject. He is dressed in a brown suit, which is complemented by a black shirt and a black tie. Adding a touch of color to his outfit is a silver tie clip, which has a blue and white design. The man is wearing glasses and has a slight smile on his face, giving him a friendly and approachable appearance.  The background of the image is blurred, but it appears to be an outdoor setting with a building visible in the distance. The focus of the image is clearly on the man, with the background elements serving to provide context but not detracting from the main subject. The overall composition of the image suggests a professional or formal setting.
-Qalign quality score of the 62-th scene: 4.94921875
-Qalign aesthetic score of the 62-th scene: 3.029296875
-Clip-t score of the 62-th scene: 0.1083
-Motion scores of the 62-th scene: 38.716392517089844
-(Compress) Motion scores of the 62-th scene: 12.7366361618042
+Caption of the 61-th scene: In the image, a young man is the central figure, exuding an air of confidence. He is dressed in a brown suit, which is complemented by a black shirt and a black tie adorned with a silver emblem. His face is partially obscured by a pair of glasses, adding an intellectual touch to his overall appearance.  He is standing in front of a building, which forms the backdrop of the image. The building is characterized by a red awning, providing a stark contrast to the otherwise neutral tones of the scene. The man's position in front of the building suggests he might be in the midst of a professional or formal event.  The image does not contain any discernible text. The relative positions of the objects are such that the man is in the foreground, while the building is in the background. The man's attire and the building's red awning are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent textures in the image. The man's glasses, the building's red awning, and the man's brown suit are the most prominent colors in the image. The man'
+Qalign quality score of the 61-th scene: 4.9375
+Qalign aesthetic score of the 61-th scene: 3.083984375
+Clip-t score of the 61-th scene: 0.1019
+Motion scores of the 61-th scene: 12.367244720458984
+(Compress) Motion scores of the 61-th scene: 10.337535858154297

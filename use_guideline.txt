@@ -1,0 +1,16 @@
+通过environment_setting.txt完成配置
+
+
+conda activate subtitleRemover
+
+# 去除字幕，假设原视频地址为 "myDir/myPath.mp4"，保存的新视频地址为 "myDir/myPath_no_sub.mp4" (要修改参数/去字幕方法可以修改video-subtitle-remover/backend/config.py文件)
+python video-subtitle-remover/backend/main.py  --video_path data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4
+
+
+conda activate dataprocess
+
+#把视频切分成镜头，生成镜头对应caption，并记录每个镜头的各个score
+python src/clipsDetect.py --video_path data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4  --output_path results.txt  --temporal_dir temporal
+
+# 筛选较差的镜头
+python src/filter.py --input_file_path results.txt  --output_file_path results_filtered.txt

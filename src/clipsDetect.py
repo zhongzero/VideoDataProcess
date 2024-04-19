@@ -282,7 +282,7 @@ def videoProcess(args):
 
     # 查看视频信息
     print("视频帧数:", video_frames.size(0))
-    print("视频分辨率:", video_frames.size(1), video_frames.size(2))
+    print("视频分辨率:", video_frames.size(2), video_frames.size(3))
     print("视频帧率:", info["video_fps"])
     
     temporal_dir = args.temporal_dir
@@ -318,8 +318,8 @@ def videoProcess(args):
 def parse_args():
     parser = argparse.ArgumentParser("", add_help=False)
     parser.add_argument("--video_path", type=str, default="data/世界首富的纨绔少爷/世界首富的纨绔少爷/1.mp4")
-    parser.add_argument("--temporal_dir", type=str, default="temporal")
     parser.add_argument("--output_path", type=str, default="results.txt")
+    parser.add_argument("--temporal_dir", type=str, default="temporal")
     parser.add_argument("--debug", help="use debug path", action="store_true")
     return parser.parse_args()
 
