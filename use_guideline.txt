@@ -9,8 +9,11 @@ python video-subtitle-remover/backend/main.py  --video_path data/世界首富的
 
 conda activate dataprocess
 
-#把视频切分成镜头，生成镜头对应caption，并记录每个镜头的各个score
+# 把视频切分成镜头，生成镜头对应caption，并记录每个镜头的各个score
 python src/clipsDetect.py --video_path data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4  --output_path results.txt  --temporal_dir temporal
 
 # 筛选较差的镜头
 python src/filter.py --input_file_path results.txt  --output_file_path results_filtered.txt
+
+# 把镜头保存成mp4
+python src/saveClips.py --video_path data/世界首富的纨绔少爷/世界首富的纨绔少爷/1_no_sub.mp4  --output_dir output
